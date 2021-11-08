@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    border: 2px solid black; 
+    margin: 1cm 6cm; 
+    font-family: Arial, Helvetica, sans-serif;"
+}
+.first{
+    padding-left: 1cm; 
+    display: flex; 
+    background-color: rgb(56, 151, 139); 
+    padding-top: 20px; 
+    padding-bottom: 20px;
+}
+.second{
+    display: flex; 
+    justify-content: space-between;
+    background-color: rgb(252, 172, 0);
+}
